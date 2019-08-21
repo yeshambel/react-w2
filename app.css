@@ -1,0 +1,18 @@
+body {
+    background: #fffcfc;
+    color: #0f0f0f;
+    font-size: 1.1em;
+    font-family: 'Lato';
+    padding-left: 100px ;
+    max-width: 78%;
+    margin: 30px;
+  }
+  table {
+    border-collapse: collapse;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
